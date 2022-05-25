@@ -1,0 +1,46 @@
+This is guide to old/deprecated snippets of code
+============================================================
+
+"""C snippet to handle signals
+
+include <signal.h>
+
+void sigpipe_handler(int unused)
+{
+}
+
+int main(void)
+{
+  sigaction(SIGPIPE, &(struct sigaction){sigpipe_handler}, NULL);
+
+  ...
+"""
+
+"""snippet to create a new Windows console
+https://stackoverflow.com/questions/6469655/how-can-i-spawn-new-shells-to-run-python-scripts-from-a-base-python-script
+
+(option 1) 
+import os
+os.system("start cmd /K dir") #/K remains the window, /C executes and dies (popup)
+
+(option 2) 
+subprocess.popen([sys.executable, 'script.py'], creationflags = subprocess.CREATE_NEW_CONSOLE)
+"""
+
+"""  ___LEGACY CODE ___
+    cmd = "ssh -i .ssh/id_rsa tst@" + HOST
+    cmd = "cmd /C " + "\"" + cmd + "\""
+    p = subprocess.Popen(cmd
+        , stdin=subprocess.PIPE
+        #, stdout=sys.stdout, stderr=subprocess.STDOUT
+        , creationflags=subprocess.CREATE_NEW_CONSOLE
+        , close_fds=True
+        )
+        else:
+            p = subprocess.Popen(["ssh", "-i", ".ssh/id_rsa", 
+                "tst@" + HOST], 
+                stdin=subprocess.PIPE
+                #, stdout=sys.stdout, stderr=subprocess.STDOUT
+                , close_fds=True
+                )
+"""

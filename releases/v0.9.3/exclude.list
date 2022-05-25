@@ -1,0 +1,4 @@
+env
+winenv
+log/*
+__pycache__

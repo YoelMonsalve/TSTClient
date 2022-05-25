@@ -1,0 +1,1 @@
+rsync -irc . ../../../../repo/tst/client/releases/v0.9.3/ --exclude-from exclude.list --stats

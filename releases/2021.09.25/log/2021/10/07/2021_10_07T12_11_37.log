@@ -1,0 +1,69 @@
+[2021-10-07T12:11:37.181780] Session started
+[2021-10-07T12:11:44.089570] user tst@localhost has logged in
+[2021-10-07T12:11:56.860781] tst has created directory 2021_TPL/23L
+[2021-10-07T12:12:08.934382] tst has inspected 2021_TPL/23L
+[2021-10-07T12:12:45.011609] changing the mode of `../../../Files/2021_TPL/23L/csv/` to u+rw
+[2021-10-07T12:12:56.383912] file `../../../Files/2021_TPL/23L/csv/005-P01_23L.csv` compressed to `../../../Files/2021_TPL/23L/csv/.tmp/005-P01_23L.csv.gz`
+[2021-10-07T12:12:57.063941] file `../../../Files/2021_TPL/23L/csv/004-P01_23L.csv` compressed to `../../../Files/2021_TPL/23L/csv/.tmp/004-P01_23L.csv.gz`
+[2021-10-07T12:12:57.888250] file `../../../Files/2021_TPL/23L/csv/011-P01_23L.csv` compressed to `../../../Files/2021_TPL/23L/csv/.tmp/011-P01_23L.csv.gz`
+[2021-10-07T12:12:58.760723] file `../../../Files/2021_TPL/23L/csv/007-P01_23L.csv` compressed to `../../../Files/2021_TPL/23L/csv/.tmp/007-P01_23L.csv.gz`
+[2021-10-07T12:12:59.432649] file `../../../Files/2021_TPL/23L/csv/006-P01_23L.csv` compressed to `../../../Files/2021_TPL/23L/csv/.tmp/006-P01_23L.csv.gz`
+[2021-10-07T12:13:00.219629] file `../../../Files/2021_TPL/23L/csv/013-P01_23L.csv` compressed to `../../../Files/2021_TPL/23L/csv/.tmp/013-P01_23L.csv.gz`
+[2021-10-07T12:13:01.222322] file `../../../Files/2021_TPL/23L/csv/020-P01_23L.csv` compressed to `../../../Files/2021_TPL/23L/csv/.tmp/020-P01_23L.csv.gz`
+[2021-10-07T12:13:02.190483] file `../../../Files/2021_TPL/23L/csv/019-P01_23L.csv` compressed to `../../../Files/2021_TPL/23L/csv/.tmp/019-P01_23L.csv.gz`
+[2021-10-07T12:13:02.972218] file `../../../Files/2021_TPL/23L/csv/009-P01_23L.csv` compressed to `../../../Files/2021_TPL/23L/csv/.tmp/009-P01_23L.csv.gz`
+[2021-10-07T12:13:03.678808] file `../../../Files/2021_TPL/23L/csv/003-P01_23L.csv` compressed to `../../../Files/2021_TPL/23L/csv/.tmp/003-P01_23L.csv.gz`
+[2021-10-07T12:13:04.627648] file `../../../Files/2021_TPL/23L/csv/015-P01_23L.csv` compressed to `../../../Files/2021_TPL/23L/csv/.tmp/015-P01_23L.csv.gz`
+[2021-10-07T12:13:05.626954] file `../../../Files/2021_TPL/23L/csv/016-P01_23L.csv` compressed to `../../../Files/2021_TPL/23L/csv/.tmp/016-P01_23L.csv.gz`
+[2021-10-07T12:13:06.576647] file `../../../Files/2021_TPL/23L/csv/017-P01_23L.csv` compressed to `../../../Files/2021_TPL/23L/csv/.tmp/017-P01_23L.csv.gz`
+[2021-10-07T12:13:07.039866] file `../../../Files/2021_TPL/23L/csv/002-P01_23L.csv` compressed to `../../../Files/2021_TPL/23L/csv/.tmp/002-P01_23L.csv.gz`
+[2021-10-07T12:13:07.486134] file `../../../Files/2021_TPL/23L/csv/001-P01_23L.csv` compressed to `../../../Files/2021_TPL/23L/csv/.tmp/001-P01_23L.csv.gz`
+[2021-10-07T12:13:08.305246] file `../../../Files/2021_TPL/23L/csv/008-P01_23L.csv` compressed to `../../../Files/2021_TPL/23L/csv/.tmp/008-P01_23L.csv.gz`
+[2021-10-07T12:13:09.144978] file `../../../Files/2021_TPL/23L/csv/012-P01_23L.csv` compressed to `../../../Files/2021_TPL/23L/csv/.tmp/012-P01_23L.csv.gz`
+[2021-10-07T12:13:09.984500] file `../../../Files/2021_TPL/23L/csv/010-P01_23L.csv` compressed to `../../../Files/2021_TPL/23L/csv/.tmp/010-P01_23L.csv.gz`
+[2021-10-07T12:13:10.808447] file `../../../Files/2021_TPL/23L/csv/014-P01_23L.csv` compressed to `../../../Files/2021_TPL/23L/csv/.tmp/014-P01_23L.csv.gz`
+[2021-10-07T12:13:11.886612] file `../../../Files/2021_TPL/23L/csv/018-P01_23L.csv` compressed to `../../../Files/2021_TPL/23L/csv/.tmp/018-P01_23L.csv.gz`
+[2021-10-07T12:13:13.184464] uploading (put) file `../../../Files/2021_TPL/23L/csv/.tmp/001-P01_23L.csv.gz` [not in remote]
+[2021-10-07T12:13:13.439262] uploading (put) file `../../../Files/2021_TPL/23L/csv/.tmp/002-P01_23L.csv.gz` [not in remote]
+[2021-10-07T12:13:13.679469] uploading (put) file `../../../Files/2021_TPL/23L/csv/.tmp/003-P01_23L.csv.gz` [not in remote]
+[2021-10-07T12:13:13.901119] uploading (put) file `../../../Files/2021_TPL/23L/csv/.tmp/004-P01_23L.csv.gz` [not in remote]
+[2021-10-07T12:13:14.254077] uploading (put) file `../../../Files/2021_TPL/23L/csv/.tmp/005-P01_23L.csv.gz` [not in remote]
+[2021-10-07T12:13:14.490061] uploading (put) file `../../../Files/2021_TPL/23L/csv/.tmp/006-P01_23L.csv.gz` [not in remote]
+[2021-10-07T12:13:14.828408] uploading (put) file `../../../Files/2021_TPL/23L/csv/.tmp/007-P01_23L.csv.gz` [not in remote]
+[2021-10-07T12:13:15.227199] uploading (put) file `../../../Files/2021_TPL/23L/csv/.tmp/008-P01_23L.csv.gz` [not in remote]
+[2021-10-07T12:13:15.504393] uploading (put) file `../../../Files/2021_TPL/23L/csv/.tmp/009-P01_23L.csv.gz` [not in remote]
+[2021-10-07T12:13:15.897449] uploading (put) file `../../../Files/2021_TPL/23L/csv/.tmp/010-P01_23L.csv.gz` [not in remote]
+[2021-10-07T12:13:16.323420] uploading (put) file `../../../Files/2021_TPL/23L/csv/.tmp/011-P01_23L.csv.gz` [not in remote]
+[2021-10-07T12:13:16.768318] uploading (put) file `../../../Files/2021_TPL/23L/csv/.tmp/012-P01_23L.csv.gz` [not in remote]
+[2021-10-07T12:13:17.189141] uploading (put) file `../../../Files/2021_TPL/23L/csv/.tmp/013-P01_23L.csv.gz` [not in remote]
+[2021-10-07T12:13:17.611996] uploading (put) file `../../../Files/2021_TPL/23L/csv/.tmp/014-P01_23L.csv.gz` [not in remote]
+[2021-10-07T12:13:18.026024] uploading (put) file `../../../Files/2021_TPL/23L/csv/.tmp/015-P01_23L.csv.gz` [not in remote]
+[2021-10-07T12:13:18.466522] uploading (put) file `../../../Files/2021_TPL/23L/csv/.tmp/016-P01_23L.csv.gz` [not in remote]
+[2021-10-07T12:13:18.922601] uploading (put) file `../../../Files/2021_TPL/23L/csv/.tmp/017-P01_23L.csv.gz` [not in remote]
+[2021-10-07T12:13:19.389416] uploading (put) file `../../../Files/2021_TPL/23L/csv/.tmp/018-P01_23L.csv.gz` [not in remote]
+[2021-10-07T12:13:19.743290] uploading (put) file `../../../Files/2021_TPL/23L/csv/.tmp/019-P01_23L.csv.gz` [not in remote]
+[2021-10-07T12:13:20.219284] uploading (put) file `../../../Files/2021_TPL/23L/csv/.tmp/020-P01_23L.csv.gz` [not in remote]
+[2021-10-07T12:13:20.223903] deleting file `../../../Files/2021_TPL/23L/csv/.tmp/001-P01_23L.csv.gz` [already in remote]
+[2021-10-07T12:13:20.225113] deleting file `../../../Files/2021_TPL/23L/csv/.tmp/002-P01_23L.csv.gz` [already in remote]
+[2021-10-07T12:13:20.226335] deleting file `../../../Files/2021_TPL/23L/csv/.tmp/003-P01_23L.csv.gz` [already in remote]
+[2021-10-07T12:13:20.228156] deleting file `../../../Files/2021_TPL/23L/csv/.tmp/004-P01_23L.csv.gz` [already in remote]
+[2021-10-07T12:13:20.230117] deleting file `../../../Files/2021_TPL/23L/csv/.tmp/005-P01_23L.csv.gz` [already in remote]
+[2021-10-07T12:13:20.232315] deleting file `../../../Files/2021_TPL/23L/csv/.tmp/006-P01_23L.csv.gz` [already in remote]
+[2021-10-07T12:13:20.234712] deleting file `../../../Files/2021_TPL/23L/csv/.tmp/007-P01_23L.csv.gz` [already in remote]
+[2021-10-07T12:13:20.236657] deleting file `../../../Files/2021_TPL/23L/csv/.tmp/008-P01_23L.csv.gz` [already in remote]
+[2021-10-07T12:13:20.238162] deleting file `../../../Files/2021_TPL/23L/csv/.tmp/009-P01_23L.csv.gz` [already in remote]
+[2021-10-07T12:13:20.239760] deleting file `../../../Files/2021_TPL/23L/csv/.tmp/010-P01_23L.csv.gz` [already in remote]
+[2021-10-07T12:13:20.241423] deleting file `../../../Files/2021_TPL/23L/csv/.tmp/011-P01_23L.csv.gz` [already in remote]
+[2021-10-07T12:13:20.243294] deleting file `../../../Files/2021_TPL/23L/csv/.tmp/012-P01_23L.csv.gz` [already in remote]
+[2021-10-07T12:13:20.245572] deleting file `../../../Files/2021_TPL/23L/csv/.tmp/013-P01_23L.csv.gz` [already in remote]
+[2021-10-07T12:13:20.247648] deleting file `../../../Files/2021_TPL/23L/csv/.tmp/014-P01_23L.csv.gz` [already in remote]
+[2021-10-07T12:13:20.249631] deleting file `../../../Files/2021_TPL/23L/csv/.tmp/015-P01_23L.csv.gz` [already in remote]
+[2021-10-07T12:13:20.251506] deleting file `../../../Files/2021_TPL/23L/csv/.tmp/016-P01_23L.csv.gz` [already in remote]
+[2021-10-07T12:13:20.255654] deleting file `../../../Files/2021_TPL/23L/csv/.tmp/017-P01_23L.csv.gz` [already in remote]
+[2021-10-07T12:13:20.257806] deleting file `../../../Files/2021_TPL/23L/csv/.tmp/018-P01_23L.csv.gz` [already in remote]
+[2021-10-07T12:13:20.260119] deleting file `../../../Files/2021_TPL/23L/csv/.tmp/019-P01_23L.csv.gz` [already in remote]
+[2021-10-07T12:13:20.262724] deleting file `../../../Files/2021_TPL/23L/csv/.tmp/020-P01_23L.csv.gz` [already in remote]
+[2021-10-07T12:13:20.262853] setting permissions to 2021_TPL/23L/csv in remote
+[2021-10-07T12:13:20.318796] decompressing files in remote
+[2021-10-07T12:13:28.290172] decompressing successful
+[2021-10-07T12:13:47.732997] tst has run TST app

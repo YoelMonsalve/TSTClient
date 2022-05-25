@@ -1,0 +1,11 @@
+#mkdir -p 2020_TPL
+#mkdir -p 2020_TPL/22L
+#mkdir -p 2020_TPL/22L/csv
+#mkdir -p 2020_TPL/22L/output
+#mkdir -p 2020_TPL/22L/plots
+ls -l .
+
+# perpetual loop
+echo -e -n "Task done.\nClose this windows to terminate ..."
+while true; do sleep 30; done
+#exit

@@ -1,0 +1,6 @@
+lcd ../work/2021S_2/csv/.tmp
+cd work/2021S_2/csv
+!ls *.csv.gz
+#put P1-1-001-001_2021S_out.csv.gz
+mput *.csv.gz
+exit
